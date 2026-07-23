@@ -1,12 +1,12 @@
 //Task 1: Employee Login System
-// let username = prompt("Enter your name :");
-// let password = prompt("Enter your password :");
+let username = prompt("Enter your name :");
+let password = prompt("Enter your password :");
 
-// if (username === "admin" && password === "12345") {
-//     console.log("Login Successful");
-// } else {
-//     console.log("Invalid Username or Password");
-// }
+if (username === "admin" && password === "12345") {
+    console.log("Login Successful");
+} else {
+    console.log("Invalid Username or Password");
+}
 
 
 //Task 2: E-Commerce Discount
@@ -95,14 +95,14 @@ console.log("Total amount :", totalamount);
 
 
 //Task 7: User Age Verification
-// let age = prompt("Enter your age");
+let age = prompt("Enter your age");
 
-// if (age >= 18){
-//     console.log("Eligible to vote");
-// }
-// else{
-//     console.log("Not Eligible");
-// }
+if (age >= 18){
+    console.log("Eligible to vote");
+}
+else{
+    console.log("Not Eligible");
+}
 
 
 //Task 8: Find Largest Number
@@ -124,15 +124,15 @@ console.log("Largest number :",largestnumber);
 
 
 //Task 9: Mobile Password
-// let pin = prompt("Enter your pin")
+let pin = prompt("Enter your pin")
 
-// if (pin.length === 4){
-//     console.log("Login success");
-// }
-// else{
-//     console.log("Invalid PIN");
+if (pin.length === 4){
+    console.log("Login success");
+}
+else{
+    console.log("Invalid PIN");
     
-// }
+}
 
 
 //Task 10: Product Stock
